@@ -1,5 +1,9 @@
 # 20 Words Android Game
 
- In Greek
+### Settings
+![Settings](screenshots/20WordsSettings
+
+### Gameplay
+![Gameplay](screenshots/20WordsGame
 
  
